@@ -1,0 +1,34 @@
+[package]
+name = "solution"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+once_cell = "1.19.0"
+rand = { version = "=0.8.5", features = ["small_rng", "min_const_gen"] }
+rand_core = "=0.6.4"
+rand_pcg = "=0.3.1"
+rand_distr = "=0.4.3"
+itertools = "0.12.0"
+proconio = { version = "=0.4.5", features = ["derive"] }
+
+tools = { path = "../tools" }
+clap = { version = "4.4.6", features = ["derive"] }
+duct = "0.13.6"
+rayon = "1.8.0"
+fixedbitset = "0.4.2"
+
+[profile.dev]
+overflow-checks = false
+
+[profile.test]
+overflow-checks = false
+
+[profile.release]
+debug = true
+
+[features]
+default = ["local"]
+local = []

@@ -1,0 +1,2 @@
+r3.f7.f6.f5.f5.r2.f5.r0.f3.f3.r0.f3.f3.r0.f3.r1.r4.f4.-r2.f4.f4.-r1.f4.r1.f5.-r2.f5.f2.r1.f2.f2.r1.f2.r5.f2.-r5.f2.f2.r6.f2.r0.f2.-r0.f2.r2.f0.-r0.f0.r2.f0.r4.f0.r2.f0.-r2.f0.-r0.r1.-r2.-r2.r6.r6.r6
+r3.f7.f6.r2.f5.r0.r0.r0.f3.r1.r4.f4.-r2.-r1.f4.r1.f5.-r2.f5.f2.r1.r1.r6.f2.r5.r0.-f2.-r0.-r5.f2.r2.r2.-f0.-r0.r4.f0.r2.f0.-r2.f0.-r0.r1.-r2.-r2.r6.r6.r6
